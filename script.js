@@ -573,10 +573,10 @@ function checkout() {
         the bakery's actual WhatsApp number.
 
         Format:
-        91 + phone number
+        91 + 9467211478
 
         Example:
-        919876543210
+        919467211478
     */
 
     const phoneNumber = "919467211478";
